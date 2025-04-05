@@ -10,7 +10,6 @@ Exemplo de thumbnail:
 
 ![Image](https://github.com/user-attachments/assets/9f39f7dd-8521-4bd7-b55e-0251b40c2d50)
 </div>
-        />
     </a> 
     <a href="https://github.com/SixGraphic">
         <img 
