@@ -2,7 +2,7 @@
 
 **`Desinger Grafico`**
 
-Me chamo Six, tenho 15 anos e sou natural de São Paulo. Concluí o ensino Fundamental completo com o curso técnico em informática. Atualmente, estou cursando Designer Grafico. Adoro tecnologia e trabalho com Desingner Grafico
+Me chamo Six, tenho 15 anos e sou natural de São Paulo. Concluí o ensino Fundamental completo com o curso técnico em informática. Atualmente, estou cursando Designer Grafico Adoro tecnologia e trabalho com Desingner Grafico.
 Exemplo de thumbnail:
 
 <p align="cemter">
