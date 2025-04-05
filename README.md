@@ -3,13 +3,6 @@
 **`Desinger Grafico `**
 
 Me chamo Six, tenho 15 anos e sou natural de São Paulo. Concluí o ensino Fundamental completo com o curso técnico em informática. Atualmente, estou cursando Designer Grafico. Adoro tecnologia e trabalho com Desingner Grafico
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a> 
     <a href="https://github.com/SixGraphic">
