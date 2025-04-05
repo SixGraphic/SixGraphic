@@ -7,7 +7,7 @@ Me chamo Six, tenho 15 anos e sou natural de São Paulo. Concluí o ensino Funda
 <p align="cemter">
 <a img srcf=''https://cdn.discordapp.com/attachments/746229856857096222/1351680759248847008/image.png?ex=67f1abce&is=67f05a4e&hm=f94a989de5b2c649f58a526193c3b3a0de100fcde28941fb646823e49345d34b&" withd-'500px />
 
-![Image](https://github.com/user-attachments/assets/427f4dbe-4001-4405-819b-a439f6a5ad92)
+![Image](https://github.com/user-attachments/assets/9f39f7dd-8521-4bd7-b55e-0251b40c2d50)
 </div>
 
 <p align="left">
