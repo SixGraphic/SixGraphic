@@ -5,7 +5,7 @@
 Me chamo Six, tenho 15 anos e sou natural de São Paulo. Concluí o ensino Fundamental completo com o curso técnico em informática. Atualmente, estou cursando Designer Grafico. Adoro tecnologia e trabalho com Desingner Grafico
 ".
 <p align="cemter">
-<a img srcf=''https://cdn.discordapp.com/attachments/746229856857096222/1351680759248847008/image.png?ex=67f1abce&is=67f05a4e&hm=f94a989de5b2c649f58a526193c3b3a0de100fcde28941fb646823e49345d34b&" withd-'500px />
+<a img srcf=''https://cdn.discordapp.com/attachments/746229856857096222/1351680759248847008/image.png?ex=67f1abce&is=67f05a4e&hm=f94a989de5b2c649f58a526193c3b3a0de100fcde28941fb646823e49345d34b&" withd-'300px />
 
 ![Image](https://github.com/user-attachments/assets/9f39f7dd-8521-4bd7-b55e-0251b40c2d50)
 </div>
