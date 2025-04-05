@@ -10,20 +10,6 @@ Exemplo de thumbnail:
 
 ![Image](https://github.com/user-attachments/assets/9f39f7dd-8521-4bd7-b55e-0251b40c2d50)
 </div>
-
-<p align="left">
-    <a href="https://www.youtube.com/@E.o.six_ExE">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/tube/channel/tube/channel/UCpafuqDxRBYpURftcahuisQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@E.o.six_ExE">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/viewstube/channel/UCpafuqDxRBYpURftcahuisQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/SixGraphic">
